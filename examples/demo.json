@@ -1,0 +1,16 @@
+{
+  "authors": {
+    "Alice": {
+      "full": "Alice Example",
+      "abbr": "A.E."
+    }
+  },
+  "author_order": [
+    "Alice"
+  ],
+  "roles": {
+    "Conceptualization": {
+      "Alice": true
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+custom_formats.json
+author_contributions.json
+settings.json
+common_names.json
+common_names.json.tmp
