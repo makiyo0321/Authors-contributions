@@ -16,7 +16,7 @@ On Linux, install your distribution's Tkinter package if necessary (often python
 
 - English by default; switch to Chinese using Language. The choice is remembered.
 - Enter English names, Chinese names, or both. Single names are supported.
-- Chinese names convert to pinyin: 张绪霞 → Zhang Xuxia.
+- Chinese names convert to pinyin: 秦始皇 → Qin Shihuang.
 - Assign the 14 CRediT roles, reorder authors, and generate statements.
 - Save/load JSON projects, copy statements, and export plain text.
 - Create custom templates using {authors} and {role}.
